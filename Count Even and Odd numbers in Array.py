@@ -5,6 +5,7 @@ for i in range(n):
 
 even = 0
 odd = 0
+
 for x in arr:
     if x % 2 == 0:
         even += 1
