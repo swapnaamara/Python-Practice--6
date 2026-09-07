@@ -1,5 +1,4 @@
 n = int(input("Enter a number: ")) 
-
 temp = n
 total = 0
 
