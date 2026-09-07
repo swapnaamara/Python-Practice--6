@@ -1,4 +1,5 @@
 binary = input("Enter binary: ")
+
 decimal = 0
 power = 0
 
