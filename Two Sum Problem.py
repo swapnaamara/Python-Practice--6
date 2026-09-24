@@ -15,6 +15,7 @@ for i in range(n):
             print(i, j)
             found = True
             break
+            
     if found:
         break
 
