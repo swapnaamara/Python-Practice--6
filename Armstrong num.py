@@ -9,5 +9,6 @@ while n > 0:
 
 if temp == total:
     print("Armstrong") 
+    
 else:
     print("Not Armstrong")
