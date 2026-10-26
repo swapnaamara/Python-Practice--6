@@ -3,7 +3,6 @@ arr = []
 
 for i in range(n):
     arr.append(int(input(f"Enter value {i+1}: ")))
-
 even = 0
 odd = 0
 
