@@ -8,7 +8,6 @@ for ch in s:
     if ch >= 'a' and ch <= 'z': 
         if ch in "aeiou":
             vowels += 1
-            
         else:
             consonants += 1
 
